@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import plotly as px
+import plotly.express as px
 
 # Generate synthetic data
 def generate_nclh_data(num_entries=150):
