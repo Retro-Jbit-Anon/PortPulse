@@ -1,3 +1,10 @@
+[![License](https://img.shields.io/badge/License-MIT-blue.svg )](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg )]()
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Deployed-faa05a?logo=streamlit&logoColor=white)]( https://w9qpkw2wrmvjhrshyp6i4p.streamlit.app/ )
+[![GitHub Issues](https://img.shields.io/github/issues/retrojbitanon/cruiseviz )](https://github.com/retrojbitanon/cruiseviz/issues )
+[![Last Commit](https://img.shields.io/github/last-commit/retrojbitanon/cruiseviz )](https://github.com/retrojbitanon/cruiseviz )
+
+
 # 🚢 NCLH Cruise Ship Fuel Analytics Dashboard
 
 A Streamlit-based interactive analytics dashboard that analyzes fuel consumption, warm-up efficiency, and operational delays for cruise ships under major subsidiaries such as Norwegian Cruise Line (NCL), Oceania Cruises, and Regent Seven Seas.
