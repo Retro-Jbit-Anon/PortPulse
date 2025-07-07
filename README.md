@@ -118,5 +118,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions, feedback, or suggestions, feel free to reach out:
 
-- 💼 GitHub Profile: [Your GitHub Link]( https://github.com/Retro-Jbit-Anon )
-- 📧 Email: [your.email@example.com](mailto:jidaarabbas@gmail.com)
+- 💼 GitHub Profile: [GitHub Link]( https://github.com/Retro-Jbit-Anon )
+- 📧 Email: [Retro-Jbit-Anon](mailto:jidaarabbas@gmail.com)
