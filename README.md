@@ -1,8 +1,8 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg )](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg )]()
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Deployed-faa05a?logo=streamlit&logoColor=white)]( https://w9qpkw2wrmvjhrshyp6i4p.streamlit.app/ )
-[![GitHub Issues](https://img.shields.io/github/issues/retrojbitanon/PortPulse )](https://github.com/retrojbitanon/PortPulse/issues )
-[![Last Commit](https://img.shields.io/github/last-commit/retrojbitanon/PortPulse )](https://github.com/retrojbitanon/PortPulse )
+[![GitHub Issues](https://img.shields.io/github/issues/Retro-Jbit-Anon/PortPulse )](https://github.com/Retro-Jbit-Anon/PortPulse/issues )
+[![Last Commit](https://img.shields.io/github/last-commit/Retro-Jbit-Anon/PortPulse )](https://github.com/Retro-Jbit-Anon/PortPulse )
 
 
 # 🚢 NCLH Cruise Ship Fuel Analytics Dashboard
