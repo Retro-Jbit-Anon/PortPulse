@@ -43,3 +43,9 @@ All data is synthetically generated to simulate real-world scenarios involving m
 git clone https://github.com/yourusername/your-repo-name.git 
 cd your-repo-name
 ```
+### 2. Install dependencies:
+Make sure you have Python installed, then run:
+
+```bash
+pip install -r requirements.txt
+```
