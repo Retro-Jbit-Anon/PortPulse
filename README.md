@@ -110,7 +110,7 @@ Contributions are welcome! If you'd like to enhance this dashboard with new feat
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg )](LICENSE).
 
 ---
 
